@@ -6,7 +6,7 @@ Go (often called Golang) is an open-source, compiled, statically typed language 
 
 ## Why It Matters
 
-Understanding _why_ Go looks the way it does explains almost every design decision you'll hit later: why there's no exceptions, why there's no generics-heavy stdlib, why formatting isn't a matter of taste (`gofmt` decides), and why concurrency is a first-class language feature instead of a library bolted on.
+Understanding *why* Go looks the way it does explains almost every design decision you'll hit later: why there's no exceptions, why there's no generics-heavy stdlib, why formatting isn't a matter of taste (`gofmt` decides), and why concurrency is a first-class language feature instead of a library bolted on.
 
 ## Core Concepts
 
