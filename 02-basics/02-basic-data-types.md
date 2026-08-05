@@ -1,27 +1,11 @@
-# Basic data types
+# Basic Data Types
 
-> Notes on **Basic data types**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Numeric types (`int`, `float64`, etc.), `bool`, `string`, their sizes, and explicit conversion rules between them.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Language Basics](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
