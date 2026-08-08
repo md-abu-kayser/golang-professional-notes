@@ -1,27 +1,11 @@
-# Race detector in depth
+# Race Detector in Depth
 
-> Notes on **Race detector in depth**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** How the race detector actually works under the hood, and its coverage limitations.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Tooling & Code Quality](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
