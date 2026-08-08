@@ -1,27 +1,11 @@
-# Workspaces multi module development
+# Workspaces Multi Module Development
 
-> Notes on **Workspaces multi module development**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Developing across multiple local modules simultaneously with `go.work`.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Modules & Dependency Management](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
