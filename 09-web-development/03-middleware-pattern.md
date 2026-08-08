@@ -1,27 +1,11 @@
-# Middleware pattern
+# Middleware Pattern
 
-> Notes on **Middleware pattern**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Composing cross-cutting concerns as middleware — see the working [middleware-chain.go](../18-code-snippets/middleware-chain.go) snippet.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Web Development](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
