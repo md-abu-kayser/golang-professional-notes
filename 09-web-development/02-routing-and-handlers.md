@@ -1,27 +1,11 @@
-# Routing and handlers
+# Routing and Handlers
 
-> Notes on **Routing and handlers**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** `ServeMux` routing patterns, including Go 1.22+'s built-in path parameters.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Web Development](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
