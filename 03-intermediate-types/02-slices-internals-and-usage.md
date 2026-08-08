@@ -1,27 +1,11 @@
-# Slices internals and usage
+# Slices Internals and Usage
 
-> Notes on **Slices internals and usage**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** The slice header (pointer, length, capacity), how `append` grows a slice, and slicing/aliasing semantics.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Intermediate Types](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.

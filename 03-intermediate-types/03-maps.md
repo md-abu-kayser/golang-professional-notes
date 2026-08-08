@@ -1,27 +1,11 @@
 # Maps
 
-> Notes on **Maps**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Hash maps, the nil-map trap, the comma-ok idiom for existence checks, and why iteration order is intentionally randomized.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Intermediate Types](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
