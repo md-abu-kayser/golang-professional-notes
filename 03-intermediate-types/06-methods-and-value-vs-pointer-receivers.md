@@ -1,27 +1,11 @@
-# Methods and value vs pointer receivers
+# Methods and Value Vs Pointer Receivers
 
-> Notes on **Methods and value vs pointer receivers**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Declaring methods on types, and the rules for choosing a value receiver vs. a pointer receiver.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Intermediate Types](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
