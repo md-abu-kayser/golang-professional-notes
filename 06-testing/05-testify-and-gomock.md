@@ -1,27 +1,11 @@
-# Testify and gomock
+# Testify and Gomock
 
-> Notes on **Testify and gomock**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Reducing boilerplate with the `testify` assertion library and generating mocks with `gomock`.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Testing](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
