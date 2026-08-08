@@ -1,27 +1,11 @@
-# Graceful shutdown
+# Graceful Shutdown
 
-> Notes on **Graceful shutdown**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Production-safe shutdown handling — see the working [graceful-shutdown.go](../18-code-snippets/graceful-shutdown.go) snippet.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Web Development](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
