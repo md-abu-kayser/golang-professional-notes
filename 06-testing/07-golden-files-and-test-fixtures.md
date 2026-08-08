@@ -1,27 +1,11 @@
-# Golden files and test fixtures
+# Golden Files and Test Fixtures
 
-> Notes on **Golden files and test fixtures**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** The golden-file pattern for comparing large or complex expected output.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Testing](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
