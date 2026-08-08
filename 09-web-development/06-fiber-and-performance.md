@@ -1,27 +1,11 @@
-# Fiber and performance
+# Fiber and Performance
 
-> Notes on **Fiber and performance**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** `Fiber`'s `fasthttp` foundation and its performance characteristics/tradeoffs.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Web Development](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
