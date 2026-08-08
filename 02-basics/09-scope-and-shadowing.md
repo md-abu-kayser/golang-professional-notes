@@ -1,27 +1,11 @@
-# Scope and shadowing
+# Scope and Shadowing
 
-> Notes on **Scope and shadowing**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Block-level scoping rules and the classic shadowing bug that `:=` can introduce inside nested blocks.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Language Basics](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.

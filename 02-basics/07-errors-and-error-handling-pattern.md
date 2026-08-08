@@ -1,27 +1,11 @@
-# Errors and error handling pattern
+# Errors and Error Handling Pattern
 
-> Notes on **Errors and error handling pattern**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** The built-in `error` interface and Go's idiom of returning errors as ordinary values instead of throwing exceptions.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Language Basics](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
