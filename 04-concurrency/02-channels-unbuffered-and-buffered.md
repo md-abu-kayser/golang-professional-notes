@@ -1,27 +1,11 @@
-# Channels unbuffered and buffered
+# Channels Unbuffered and Buffered
 
-> Notes on **Channels unbuffered and buffered**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Channel semantics, blocking behavior, and the difference between buffered and unbuffered channels.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Concurrency](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
