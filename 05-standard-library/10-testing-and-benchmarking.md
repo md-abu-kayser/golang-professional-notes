@@ -1,27 +1,11 @@
-# Testing and benchmarking
+# Testing and Benchmarking
 
-> Notes on **Testing and benchmarking**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** A standard-library-level preview of `testing` — the full deep dive lives in [06-testing](../06-testing/README.md).
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Standard Library](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.

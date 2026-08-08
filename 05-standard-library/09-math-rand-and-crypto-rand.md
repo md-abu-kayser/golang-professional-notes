@@ -1,27 +1,11 @@
-# Math rand and crypto rand
+# Math Rand and Crypto Rand
 
-> Notes on **Math rand and crypto rand**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** The difference between `math/rand` (fast, predictable) and `crypto/rand` (secure) — and when each is appropriate.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Standard Library](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.

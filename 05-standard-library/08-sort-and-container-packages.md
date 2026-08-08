@@ -1,27 +1,11 @@
-# Sort and container packages
+# Sort and Container Packages
 
-> Notes on **Sort and container packages**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Custom sorting with `sort.Slice`, plus `container/heap` and `container/list`.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Standard Library](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
