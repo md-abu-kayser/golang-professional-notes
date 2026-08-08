@@ -1,27 +1,11 @@
-# Concurrency patterns pipelines fan in fan out
+# Concurrency Patterns Pipelines Fan in Fan Out
 
-> Notes on **Concurrency patterns pipelines fan in fan out**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Composable concurrency patterns: pipeline stages, fan-out, and fan-in.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Concurrency](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
