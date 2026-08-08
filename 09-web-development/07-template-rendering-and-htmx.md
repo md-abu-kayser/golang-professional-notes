@@ -1,27 +1,11 @@
-# Template rendering and htmx
+# Template Rendering and Htmx
 
-> Notes on **Template rendering and htmx**.
+> 📋 **Status:** Planned — this lesson isn't written yet.
 
-## Overview
+**What it will cover:** Server-rendered UI with `html/template`, paired with `htmx` for interactivity without a JS framework.
 
-TODO: add notes here.
+---
 
-## Key Points
+This lesson is part of **[Web Development](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
 
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
