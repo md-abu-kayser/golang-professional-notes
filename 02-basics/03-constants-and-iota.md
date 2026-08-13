@@ -1,11 +1,5 @@
-# Constants and Iota
+# Constants & iota
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`const Pi = 3.14`. `iota` for enums: `const ( A = iota; B; C )`.
 
-**What it will cover:** `const` blocks, the difference between typed and untyped constants, and the `iota` pattern for enumerations.
-
----
-
-This lesson is part of **[Language Basics](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Operators & Expressions](04-operators-and-expressions.md)
