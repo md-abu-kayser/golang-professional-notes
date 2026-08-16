@@ -1,11 +1,5 @@
-# Interfaces and Polymorphism
+# Interfaces
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+Define behavior. Implicit implementation. `interface{}` (empty) or `any`.
 
-**What it will cover:** Go's implicit interface satisfaction and the idiom of small, single-method interfaces.
-
----
-
-This lesson is part of **[Intermediate Types](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Type Assertions & Type Switches](08-type-assertions-and-type-switches.md)

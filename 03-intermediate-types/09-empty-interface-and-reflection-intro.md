@@ -1,11 +1,5 @@
-# Empty Interface and Reflection Intro
+# Empty Interface & Reflection
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`any` accepts any type. `reflect` package for runtime type inspection (use sparingly).
 
-**What it will cover:** The empty interface (`any`), and a first look at the `reflect` package — and when to avoid reaching for it.
-
----
-
-This lesson is part of **[Intermediate Types](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: **04-concurrency** – [Goroutines](../04-concurrency/01-goroutines.md)

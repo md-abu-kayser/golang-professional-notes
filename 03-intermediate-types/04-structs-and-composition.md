@@ -1,11 +1,5 @@
-# Structs and Composition
+# Structs
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`type User struct { Name string; Age int }`. Composition via embedding.
 
-**What it will cover:** Struct literals and fields, and composition-over-inheritance via embedded structs.
-
----
-
-This lesson is part of **[Intermediate Types](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Pointers & Memory](05-pointers-and-memory.md)

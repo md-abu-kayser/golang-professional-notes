@@ -1,11 +1,5 @@
-# Methods and Value Vs Pointer Receivers
+# Methods
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`func (u User) Greet() string`. Pointer receiver to modify original.
 
-**What it will cover:** Declaring methods on types, and the rules for choosing a value receiver vs. a pointer receiver.
-
----
-
-This lesson is part of **[Intermediate Types](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Interfaces & Polymorphism](07-interfaces-and-polymorphism.md)

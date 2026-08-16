@@ -1,11 +1,5 @@
-# Slices Internals and Usage
+# Slices
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+Dynamic‑size view into an array. `make([]int, 0, 10)`. `append`, `copy`, slicing. Internals: pointer, length, capacity.
 
-**What it will cover:** The slice header (pointer, length, capacity), how `append` grows a slice, and slicing/aliasing semantics.
-
----
-
-This lesson is part of **[Intermediate Types](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Maps](03-maps.md)
