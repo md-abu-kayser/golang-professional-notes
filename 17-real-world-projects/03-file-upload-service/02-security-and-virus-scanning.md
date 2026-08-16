@@ -1,27 +1,5 @@
-# Security and virus scanning
+# Security & Virus Scanning
 
-> Notes on **Security and virus scanning**.
+Validate file type, scan with ClamAV. Restrict max size.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Progress Reporting & Webhooks](03-progress-reporting-and-webhooks.md)

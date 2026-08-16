@@ -1,27 +1,5 @@
-# Serverless with aws lambda cloud run
+# Serverless
 
-> Notes on **Serverless with aws lambda cloud run**.
+AWS Lambda Go adapter, Google Cloud Run. Container or function.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Monitoring & Logging – Prometheus, Grafana](06-monitoring-and-logging-with-prometheus-grafana.md)

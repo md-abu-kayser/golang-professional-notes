@@ -1,27 +1,5 @@
-# Benchmarking and comparing algorithms
+# Benchmarking
 
-> Notes on **Benchmarking and comparing algorithms**.
+`testing.B`, `benchstat` to compare results.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [String Concatenation & Immutable Optimizations](05-string-concatenation-and-immutable-optimizations.md)

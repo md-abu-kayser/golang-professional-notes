@@ -1,27 +1,5 @@
-# Progress reporting and webhooks
+# Progress Reporting & Webhooks
 
-> Notes on **Progress reporting and webhooks**.
+Track upload progress. Send webhook on completion.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: **Realtime Chat WebSocket** – [WebSocket Server with Gorilla](../04-realtime-chat-websocket/01-websocket-server-with-gorilla.md)

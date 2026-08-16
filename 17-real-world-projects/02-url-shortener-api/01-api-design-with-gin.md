@@ -1,27 +1,5 @@
-# Api design with gin
+# URL Shortener – API Design with Gin
 
-> Notes on **Api design with gin**.
+Endpoints: POST /shorten, GET /:code. Gin router setup.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Redis Cache & Postgres](02-redis-cache-and-postgres.md)

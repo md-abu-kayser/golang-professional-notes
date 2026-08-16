@@ -1,27 +1,5 @@
-# Docker and multi stage builds
+# Docker & Multi‑Stage Builds
 
-> Notes on **Docker and multi stage builds**.
+Distroless or scratch images. Example Dockerfile.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Kubernetes Deployment](03-kubernetes-deployment.md)

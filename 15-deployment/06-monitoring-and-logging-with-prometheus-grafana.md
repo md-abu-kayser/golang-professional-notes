@@ -1,27 +1,5 @@
-# Monitoring and logging with prometheus grafana
+# Monitoring & Logging
 
-> Notes on **Monitoring and logging with prometheus grafana**.
+`prometheus/client_golang` for metrics. Structured logging to Loki or ELK.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: **16-advanced-concepts** – [Generics & Type Parameters](../16-advanced-concepts/01-generics-and-type-parameters.md)

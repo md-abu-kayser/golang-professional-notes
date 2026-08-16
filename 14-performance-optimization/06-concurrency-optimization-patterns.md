@@ -1,27 +1,5 @@
-# Concurrency optimization patterns
+# Concurrency Optimization
 
-> Notes on **Concurrency optimization patterns**.
+Worker pools, rate limiting, bounded concurrency.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: **15-deployment** – [Building & Cross‑Compiling](../15-deployment/01-building-and-cross-compiling.md)

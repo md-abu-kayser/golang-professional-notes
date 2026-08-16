@@ -1,27 +1,5 @@
-# Rate limiting and analytics
+# Rate Limiting & Analytics
 
-> Notes on **Rate limiting and analytics**.
+`golang.org/x/time/rate`, click tracking.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: **File Upload Service** – [Multipart Upload & S3](../03-file-upload-service/01-multipart-upload-and-s3.md)

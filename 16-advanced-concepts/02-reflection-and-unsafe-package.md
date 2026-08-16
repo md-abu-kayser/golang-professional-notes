@@ -1,27 +1,5 @@
-# Reflection and unsafe package
+# Reflection & unsafe
 
-> Notes on **Reflection and unsafe package**.
+`reflect` for dynamic type inspection. `unsafe` for low‑level memory manipulation (rare).
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [cgo & Interfacing with C](03-cgo-and-interfacing-with-c.md)

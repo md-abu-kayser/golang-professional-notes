@@ -1,27 +1,5 @@
-# Cgo and interfacing with c
+# cgo
 
-> Notes on **Cgo and interfacing with c**.
+Calling C code from Go. CGo overhead, foreign function interface.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Plugin Architecture & RPC](04-plugin-architecture-and-rpc.md)

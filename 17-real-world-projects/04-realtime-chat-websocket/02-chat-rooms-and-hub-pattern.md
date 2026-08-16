@@ -1,27 +1,5 @@
-# Chat rooms and hub pattern
+# Chat Rooms & Hub Pattern
 
-> Notes on **Chat rooms and hub pattern**.
+Central hub broadcasting to rooms.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Scaling with Redis Pub/Sub](03-scaling-with-redis-pub-sub.md)

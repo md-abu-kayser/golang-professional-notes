@@ -1,27 +1,5 @@
-# Multipart upload and s3
+# File Upload – Multipart & S3
 
-> Notes on **Multipart upload and s3**.
+Handle multipart form, stream to AWS S3 using `aws-sdk-go-v2`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Security & Virus Scanning](02-security-and-virus-scanning.md)

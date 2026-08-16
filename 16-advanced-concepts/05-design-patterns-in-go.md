@@ -1,27 +1,5 @@
-# Design patterns in go
+# Design Patterns in Go
 
-> Notes on **Design patterns in go**.
+Singleton, factory, strategy, observer adapted to Go idioms.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Go Compiler & Runtime Internals](06-go-compiler-and-runtime-internals.md)

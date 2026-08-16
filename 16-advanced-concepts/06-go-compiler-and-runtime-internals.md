@@ -1,27 +1,5 @@
-# Go compiler and runtime internals
+# Compiler & Runtime Internals
 
-> Notes on **Go compiler and runtime internals**.
+Goroutine scheduler (M:N), GC phases, escape analysis, inline.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: **17-real-world-projects** – [CLI Task Manager](../17-real-world-projects/01-cli-task-manager/01-cobra-cli-setup.md)

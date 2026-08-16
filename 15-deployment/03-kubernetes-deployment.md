@@ -1,27 +1,5 @@
-# Kubernetes deployment
+# Kubernetes Deployment
 
-> Notes on **Kubernetes deployment**.
+Deployments, services, health checks, config maps, secrets.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [CI/CD with GitHub Actions & GitLab](04-ci-cd-with-github-actions-gitlab.md)

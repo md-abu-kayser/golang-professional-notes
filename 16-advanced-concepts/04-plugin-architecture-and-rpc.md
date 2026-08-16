@@ -1,27 +1,5 @@
-# Plugin architecture and rpc
+# Plugin Architecture & RPC
 
-> Notes on **Plugin architecture and rpc**.
+`net/rpc`, `hashicorp/go-plugin`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Design Patterns in Go](05-design-patterns-in-go.md)

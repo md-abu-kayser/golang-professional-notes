@@ -1,27 +1,5 @@
-# Api gateway with grpc
+# API Gateway with gRPC
 
-> Notes on **Api gateway with grpc**.
+gRPC gateway for external REST, internal gRPC.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Observability & Deployment](03-observability-and-deployment.md)

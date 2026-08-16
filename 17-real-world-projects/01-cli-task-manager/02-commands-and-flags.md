@@ -1,27 +1,5 @@
-# Commands and flags
+# Commands & Flags
 
-> Notes on **Commands and flags**.
+Add, list, delete tasks. Persistent and local flags.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Storing Data with SQLite](03-storing-data-with-sqlite.md)

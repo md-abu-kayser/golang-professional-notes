@@ -1,27 +1,5 @@
-# Scaling with redis pub sub
+# Scaling with Redis Pub/Sub
 
-> Notes on **Scaling with redis pub sub**.
+Multiple instances with Redis for message distribution.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: **Ecommerce Microservices** – [Service Breakdown](../05-ecommerce-microservices/01-service-breakdown.md)

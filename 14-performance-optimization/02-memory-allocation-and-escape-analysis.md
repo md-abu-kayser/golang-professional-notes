@@ -1,27 +1,5 @@
-# Memory allocation and escape analysis
+# Memory Allocation & Escape Analysis
 
-> Notes on **Memory allocation and escape analysis**.
+Understand stack vs heap. `go build -gcflags="-m"` to see escape analysis.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Garbage Collection Tuning](03-garbage-collection-tuning.md)

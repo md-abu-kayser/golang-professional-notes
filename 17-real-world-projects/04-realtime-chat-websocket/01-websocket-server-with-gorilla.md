@@ -1,27 +1,5 @@
-# Websocket server with gorilla
+# Chat WebSocket – Server with Gorilla
 
-> Notes on **Websocket server with gorilla**.
+Upgrade HTTP, manage clients.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Chat Rooms & Hub Pattern](02-chat-rooms-and-hub-pattern.md)

@@ -1,27 +1,5 @@
-# String concatenation and immutable optimizations
+# String Optimizations
 
-> Notes on **String concatenation and immutable optimizations**.
+Use `strings.Builder` instead of `+`. Reuse buffers with `sync.Pool`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Concurrency Optimization Patterns](06-concurrency-optimization-patterns.md)

@@ -1,27 +1,5 @@
-# Redis cache and postgres
+# Redis Cache & Postgres
 
-> Notes on **Redis cache and postgres**.
+Cache mappings in Redis, store in Postgres for persistence.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Rate Limiting & Analytics](03-rate-limiting-and-analytics.md)

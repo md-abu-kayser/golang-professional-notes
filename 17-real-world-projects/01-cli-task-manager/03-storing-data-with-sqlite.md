@@ -1,27 +1,5 @@
-# Storing data with sqlite
+# Storing Data with SQLite
 
-> Notes on **Storing data with sqlite**.
+`mattn/go-sqlite3`. CRUD operations, migrations.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: **URL Shortener API** – [API Design with Gin](../02-url-shortener-api/01-api-design-with-gin.md)

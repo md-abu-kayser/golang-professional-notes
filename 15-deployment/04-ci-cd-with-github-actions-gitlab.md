@@ -1,27 +1,5 @@
-# Ci cd with github actions gitlab
+# CI/CD
 
-> Notes on **Ci cd with github actions gitlab**.
+Setup Go in CI, run tests, lint, build, deploy.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Serverless – AWS Lambda, Cloud Run](05-serverless-with-aws-lambda-cloud-run.md)

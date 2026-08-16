@@ -1,27 +1,5 @@
-# Service breakdown
+# Ecommerce Microservices – Service Breakdown
 
-> Notes on **Service breakdown**.
+Users, Products, Orders, Cart services.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [API Gateway with gRPC](02-api-gateway-with-grpc.md)

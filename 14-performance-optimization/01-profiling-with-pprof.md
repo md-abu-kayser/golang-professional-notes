@@ -1,27 +1,5 @@
 # Profiling with pprof
 
-> Notes on **Profiling with pprof**.
+Identify bottlenecks. CPU, heap, goroutine profiles.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Memory Allocation & Escape Analysis](02-memory-allocation-and-escape-analysis.md)

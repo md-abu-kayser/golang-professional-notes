@@ -1,27 +1,5 @@
-# Cobra cli setup
+# CLI Task Manager – Cobra Setup
 
-> Notes on **Cobra cli setup**.
+`cobra-cli init`, root command, subcommands.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Commands & Flags](02-commands-and-flags.md)

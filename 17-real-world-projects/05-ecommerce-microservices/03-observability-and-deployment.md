@@ -1,27 +1,5 @@
-# Observability and deployment
+# Observability & Deployment
 
-> Notes on **Observability and deployment**.
+Prometheus metrics, tracing, Docker Compose / Kubernetes.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: **18-code-snippets** – [error-handling-pattern.go](../18-code-snippets/error-handling-pattern.go)

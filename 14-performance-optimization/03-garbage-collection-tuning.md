@@ -1,27 +1,5 @@
-# Garbage collection tuning
+# GC Tuning
 
-> Notes on **Garbage collection tuning**.
+`GOGC`, `GOMEMLIMIT`. Reduce GC overhead.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Benchmarking & Comparing Algorithms](04-benchmarking-and-comparing-algorithms.md)

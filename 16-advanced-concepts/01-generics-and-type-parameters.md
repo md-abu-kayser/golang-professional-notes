@@ -1,27 +1,5 @@
-# Generics and type parameters
+# Generics & Type Parameters
 
-> Notes on **Generics and type parameters**.
+`func Map[K comparable, V any](m map[K]V, f func(V) V)`. Constraints.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Reflection & unsafe Package](02-reflection-and-unsafe-package.md)
