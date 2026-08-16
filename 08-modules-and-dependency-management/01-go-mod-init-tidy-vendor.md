@@ -1,11 +1,5 @@
-# Go Mod Init Tidy Vendor
+# go mod init, tidy, vendor
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+Initialize module, clean dependencies, vendoring.
 
-**What it will cover:** The full `go.mod` lifecycle, including vendoring dependencies for reproducible, offline builds.
-
----
-
-This lesson is part of **[Modules & Dependency Management](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Semantic Versioning & Module Proxy](02-semantic-versioning-and-module-proxy.md)
