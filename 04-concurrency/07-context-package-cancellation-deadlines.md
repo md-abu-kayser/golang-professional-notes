@@ -1,11 +1,5 @@
-# Context Package Cancellation Deadlines
+# context Package
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`context.Context` for deadlines, cancellation, request‑scoped values.
 
-**What it will cover:** `context.Context` for cancellation signals, deadlines, and request-scoped values — see also [graceful-shutdown.go](../18-code-snippets/graceful-shutdown.go).
-
----
-
-This lesson is part of **[Concurrency](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Atomic Operations](08-atomic-operations.md)

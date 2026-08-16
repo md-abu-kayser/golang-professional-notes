@@ -1,11 +1,5 @@
-# Code Coverage and Coverprofile
+# Code Coverage
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`go test -coverprofile=coverage.out`, `go tool cover -html=coverage.out`.
 
-**What it will cover:** Generating and reading coverage reports with `go test -cover` and `-coverprofile`.
-
----
-
-This lesson is part of **[Testing](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Fuzzing Basics](09-fuzzing-basics.md)

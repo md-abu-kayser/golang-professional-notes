@@ -1,11 +1,5 @@
 # Goroutines
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+Lightweight thread: `go fn()`. Concurrent execution. M:N scheduler.
 
-**What it will cover:** Lightweight goroutines, the `go` keyword, and a plain-language overview of Go's M:N scheduler.
-
----
-
-This lesson is part of **[Concurrency](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Channels – Unbuffered & Buffered](02-channels-unbuffered-and-buffered.md)

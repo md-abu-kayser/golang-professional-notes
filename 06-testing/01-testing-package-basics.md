@@ -1,11 +1,5 @@
-# Testing Package Basics
+# testing Package Basics
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`go test`, table‑driven tests, `t.Run` for subtests.
 
-**What it will cover:** The `testing` package, `*testing.T`, and Go's `TestXxx` naming convention.
-
----
-
-This lesson is part of **[Testing](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Table‑Driven Tests](02-table-driven-tests.md)

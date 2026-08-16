@@ -1,11 +1,5 @@
-# Concurrency Patterns Pipelines Fan in Fan Out
+# Concurrency Patterns
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+Pipelines, fan‑out/fan‑in. `sync.Pool` for reuse.
 
-**What it will cover:** Composable concurrency patterns: pipeline stages, fan-out, and fan-in.
-
----
-
-This lesson is part of **[Concurrency](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Context Package – Cancellation & Deadlines](07-context-package-cancellation-deadlines.md)

@@ -1,11 +1,5 @@
-# Encoding JSON and XML
+# JSON & XML
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`json.Marshal`, `json.Unmarshal`. Struct tags `json:"name"`. `encoding/xml`.
 
-**What it will cover:** Struct tags, `Marshal`/`Unmarshal`, and writing custom (un)marshalers.
-
----
-
-This lesson is part of **[Standard Library](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [net/http – Client & Server](06-net-http-client-and-server.md)

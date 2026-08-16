@@ -1,11 +1,5 @@
-# Strings Strconv and Bytes
+# strings, strconv, bytes
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+String manipulation, conversion, bytes buffer.
 
-**What it will cover:** String manipulation with `strings`, type conversions with `strconv`, and working with raw `[]byte`.
-
----
-
-This lesson is part of **[Standard Library](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [os & File Handling](03-os-and-file-handling.md)

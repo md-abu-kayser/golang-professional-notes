@@ -1,11 +1,5 @@
-# Golden Files and Test Fixtures
+# Golden Files
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+Compare output against stored "golden" files; update with `-update` flag.
 
-**What it will cover:** The golden-file pattern for comparing large or complex expected output.
-
----
-
-This lesson is part of **[Testing](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Code Coverage & coverprofile](08-code-coverage-and-coverprofile.md)

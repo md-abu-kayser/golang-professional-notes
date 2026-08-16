@@ -1,11 +1,5 @@
-# Math Rand and Crypto Rand
+# Random Numbers
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`math/rand` for pseudo‑random, `crypto/rand` for secure randomness.
 
-**What it will cover:** The difference between `math/rand` (fast, predictable) and `crypto/rand` (secure) — and when each is appropriate.
-
----
-
-This lesson is part of **[Standard Library](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [testing & Benchmarking](10-testing-and-benchmarking.md)

@@ -1,11 +1,5 @@
-# Fuzzing Basics
+# Fuzzing
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`func FuzzXxx(f *testing.F)`. Native fuzzing since Go 1.18.
 
-**What it will cover:** Go's built-in fuzz testing (`go test -fuzz`) for discovering edge cases automatically.
-
----
-
-This lesson is part of **[Testing](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: **07-tooling-and-code-quality** – [go fmt & goimports](../07-tooling-and-code-quality/01-go-fmt-and-goimports.md)

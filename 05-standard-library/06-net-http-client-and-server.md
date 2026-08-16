@@ -1,11 +1,5 @@
-# Net HTTP Client and Server
+# net/http
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+HTTP client (`http.Get`, `http.Post`), server (`http.HandleFunc`, `http.ListenAndServe`).
 
-**What it will cover:** Building HTTP servers and making outbound HTTP calls with `net/http` alone.
-
----
-
-This lesson is part of **[Standard Library](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [html/template](07-html-template.md)

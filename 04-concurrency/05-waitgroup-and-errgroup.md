@@ -1,11 +1,5 @@
-# WaitGroup and ErrGroup
+# WaitGroup & errgroup
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`sync.WaitGroup` to wait for goroutines. `golang.org/x/sync/errgroup` for error propagation.
 
-**What it will cover:** Coordinating goroutine completion with `sync.WaitGroup` and error propagation with `golang.org/x/sync/errgroup`.
-
----
-
-This lesson is part of **[Concurrency](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Concurrency Patterns – Pipelines, Fan‑In, Fan‑Out](06-concurrency-patterns-pipelines-fan-in-fan-out.md)

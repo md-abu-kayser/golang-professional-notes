@@ -1,11 +1,5 @@
-# Testify and Gomock
+# testify & gomock
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`testify/assert`, `testify/mock`. `gomock` for generated mocks.
 
-**What it will cover:** Reducing boilerplate with the `testify` assertion library and generating mocks with `gomock`.
-
----
-
-This lesson is part of **[Testing](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [httptest for HTTP Handlers](06-httptest-for-http-handlers.md)

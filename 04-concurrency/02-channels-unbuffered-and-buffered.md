@@ -1,11 +1,5 @@
-# Channels Unbuffered and Buffered
+# Channels
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`ch := make(chan int)`. Send `ch <- v`, receive `v := <-ch`. Buffered: `make(chan int, 5)`.
 
-**What it will cover:** Channel semantics, blocking behavior, and the difference between buffered and unbuffered channels.
-
----
-
-This lesson is part of **[Concurrency](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [select Statement](03-select-statement.md)
