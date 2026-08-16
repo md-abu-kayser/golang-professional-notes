@@ -1,11 +1,5 @@
-# Go Fmt and Goimports
+# go fmt & goimports
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+Format code: `go fmt ./...`. `goimports` also manages import lines.
 
-**What it will cover:** Canonical formatting with `gofmt`, and auto-organizing imports with `goimports`.
-
----
-
-This lesson is part of **[Tooling & Code Quality](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [go vet & staticcheck](02-go-vet-and-staticcheck.md)

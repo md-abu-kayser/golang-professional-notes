@@ -1,11 +1,5 @@
-# Race Detector in Depth
+# Race Detector In‑Depth
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+Enabling, interpreting reports, fixing races.
 
-**What it will cover:** How the race detector actually works under the hood, and its coverage limitations.
-
----
-
-This lesson is part of **[Tooling & Code Quality](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Cross‑Compilation & Build Tags](07-cross-compilation-and-build-tags.md)
