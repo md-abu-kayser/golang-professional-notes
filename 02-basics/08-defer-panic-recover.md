@@ -1,11 +1,5 @@
-# Defer Panic Recover
+# defer, panic, recover
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`defer` schedules function call to run after function returns. `panic` for unrecoverable errors; `recover` to catch.
 
-**What it will cover:** `defer`'s LIFO execution order for cleanup, and `panic`/`recover` for truly exceptional situations.
-
----
-
-This lesson is part of **[Language Basics](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Scope & Shadowing](09-scope-and-shadowing.md)

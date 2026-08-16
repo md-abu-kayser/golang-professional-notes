@@ -1,11 +1,5 @@
-# Errors and Error Handling Pattern
+# Errors & Error Handling
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`error` interface. `if err != nil` pattern. `errors.New`, `fmt.Errorf`. Custom errors.
 
-**What it will cover:** The built-in `error` interface and Go's idiom of returning errors as ordinary values instead of throwing exceptions.
-
----
-
-This lesson is part of **[Language Basics](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [defer, panic, recover](08-defer-panic-recover.md)

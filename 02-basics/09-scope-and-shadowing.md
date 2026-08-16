@@ -1,11 +1,5 @@
-# Scope and Shadowing
+# Scope & Shadowing
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+Block scope. Shadowing variables with `:=` in inner scope.
 
-**What it will cover:** Block-level scoping rules and the classic shadowing bug that `:=` can introduce inside nested blocks.
-
----
-
-This lesson is part of **[Language Basics](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: **03-intermediate-types** – [Arrays](../03-intermediate-types/01-arrays.md)

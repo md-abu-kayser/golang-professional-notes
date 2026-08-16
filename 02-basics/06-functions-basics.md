@@ -1,11 +1,5 @@
 # Functions Basics
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`func add(a, b int) int { return a + b }`. Multiple return values.
 
-**What it will cover:** Function declarations, multiple return values, variadic parameters, and named return values.
-
----
-
-This lesson is part of **[Language Basics](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: [Errors & Error Handling Pattern](07-errors-and-error-handling-pattern.md)
