@@ -1,27 +1,5 @@
-# Event driven patterns
+# Event‑Driven Patterns
 
-> Notes on **Event driven patterns**.
+CQRS, event sourcing, outbox pattern with Go.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Distributed Tracing – OpenTelemetry](05-distributed-tracing-opentelemetry.md)

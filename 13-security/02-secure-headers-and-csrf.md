@@ -1,27 +1,5 @@
-# Secure headers and csrf
+# Secure Headers & CSRF
 
-> Notes on **Secure headers and csrf**.
+Set CSP, HSTS, X‑Frame‑Options. CSRF token protection.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Rate Limiting](03-rate-limiting.md)

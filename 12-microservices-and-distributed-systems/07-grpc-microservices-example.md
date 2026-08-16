@@ -1,27 +1,5 @@
-# Grpc microservices example
+# gRPC Microservices Example
 
-> Notes on **Grpc microservices example**.
+Multiple services, gateway, service discovery.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: **13-security** – [Input Validation & Sanitization](../13-security/01-input-validation-and-sanitization.md)

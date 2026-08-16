@@ -1,27 +1,5 @@
-# Secrets management vault env
+# Secrets Management
 
-> Notes on **Secrets management vault env**.
+Never commit secrets. Use environment variables, Vault, or cloud secret managers.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Static Analysis & gosec](05-static-analysis-and-gosec.md)

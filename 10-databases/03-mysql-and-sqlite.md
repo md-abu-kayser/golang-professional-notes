@@ -1,27 +1,5 @@
-# Mysql and sqlite
+# MySQL & SQLite
 
-> Notes on **Mysql and sqlite**.
+`go-sql-driver/mysql`, `mattn/go-sqlite3`. `DSN`, connection strings.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [ORM – GORM Basics](04-orm-gorm-basics.md)

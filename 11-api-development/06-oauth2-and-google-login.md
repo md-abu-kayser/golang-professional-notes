@@ -1,27 +1,5 @@
-# Oauth2 and google login
+# OAuth2 & Google Login
 
-> Notes on **Oauth2 and google login**.
+`golang.org/x/oauth2`. Third‑party login flow.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [gRPC & Protobuf](07-grpc-and-protobuf.md)

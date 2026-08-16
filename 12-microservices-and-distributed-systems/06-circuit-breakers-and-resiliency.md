@@ -1,27 +1,5 @@
-# Circuit breakers and resiliency
+# Circuit Breakers
 
-> Notes on **Circuit breakers and resiliency**.
+`sony/gobreaker`, `go-kit/circuitbreaker`. Retry with backoff.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [gRPC Microservices Example](07-grpc-microservices-example.md)

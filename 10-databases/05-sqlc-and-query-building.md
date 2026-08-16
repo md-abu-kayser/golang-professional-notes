@@ -1,27 +1,5 @@
-# Sqlc and query building
+# sqlc
 
-> Notes on **Sqlc and query building**.
+Generate type‑safe Go code from SQL. Used with raw queries.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Migrations – golang‑migrate](06-migrations-golang-migrate.md)

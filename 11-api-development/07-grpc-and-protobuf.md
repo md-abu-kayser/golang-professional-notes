@@ -1,27 +1,5 @@
-# Grpc and protobuf
+# gRPC & Protobuf
 
-> Notes on **Grpc and protobuf**.
+Define services in `.proto`, generate code. High‑performance RPC.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [GraphQL with graphql‑go](08-graphql-with-graphql-go.md)

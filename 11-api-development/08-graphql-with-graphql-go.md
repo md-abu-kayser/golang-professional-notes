@@ -1,27 +1,5 @@
-# Graphql with graphql go
+# GraphQL with graphql‑go
 
-> Notes on **Graphql with graphql go**.
+`graphql-go/graphql` or `gqlgen`. Schema‑first approach.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [OpenAPI & Swagger Documentation](09-openapi-and-swagger-documentation.md)

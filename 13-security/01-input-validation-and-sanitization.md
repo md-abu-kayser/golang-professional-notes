@@ -1,27 +1,5 @@
-# Input validation and sanitization
+# Input Validation & Sanitization
 
-> Notes on **Input validation and sanitization**.
+Prevent injection attacks. Validate and sanitize all user inputs.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Secure Headers & CSRF](02-secure-headers-and-csrf.md)

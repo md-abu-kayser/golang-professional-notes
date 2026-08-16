@@ -1,27 +1,5 @@
-# Service discovery with consul etcd
+# Service Discovery
 
-> Notes on **Service discovery with consul etcd**.
+Register and discover services. Consul, etcd integrations.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Message Queues – RabbitMQ, Kafka](03-message-queues-rabbitmq-kafka.md)

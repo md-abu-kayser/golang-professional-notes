@@ -1,27 +1,5 @@
-# Openapi and swagger documentation
+# OpenAPI & Swagger
 
-> Notes on **Openapi and swagger documentation**.
+Generate specs with `swaggo/swag` from code annotations. Swagger UI.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: **12-microservices-and-distributed-systems** – [Microservices Architecture](../12-microservices-and-distributed-systems/01-microservices-architecture.md)

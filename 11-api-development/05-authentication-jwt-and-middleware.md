@@ -1,27 +1,5 @@
-# Authentication jwt and middleware
+# JWT Authentication
 
-> Notes on **Authentication jwt and middleware**.
+`golang-jwt/jwt`. Generate, parse, middleware to protect routes.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [OAuth2 & Google Login](06-oauth2-and-google-login.md)

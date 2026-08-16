@@ -1,27 +1,5 @@
-# Rest api design principles
+# REST API Design Principles
 
-> Notes on **Rest api design principles**.
+Resources, HTTP methods, status codes, consistent responses.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Building a REST API with net/http](02-building-a-rest-api-with-net-http.md)

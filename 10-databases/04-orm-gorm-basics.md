@@ -1,27 +1,5 @@
-# Orm gorm basics
+# GORM
 
-> Notes on **Orm gorm basics**.
+ORM for Go. Migrations, associations, hooks.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [sqlc & Query Building](05-sqlc-and-query-building.md)

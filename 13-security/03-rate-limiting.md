@@ -1,27 +1,5 @@
-# Rate limiting
+# Rate Limiting
 
-> Notes on **Rate limiting**.
+Token bucket, fixed window. Use `golang.org/x/time/rate` or middleware.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Secrets Management – Vault, env](04-secrets-management-vault-env.md)

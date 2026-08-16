@@ -1,27 +1,5 @@
-# Redis and caching
+# Redis & Caching
 
-> Notes on **Redis and caching**.
+`go-redis/redis` client. Caching strategies, rate‑limiting, pub‑sub.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [NoSQL & MongoDB Driver](08-nosql-and-mongodb-driver.md)

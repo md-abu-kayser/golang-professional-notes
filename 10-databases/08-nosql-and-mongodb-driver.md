@@ -1,27 +1,5 @@
-# Nosql and mongodb driver
+# MongoDB
 
-> Notes on **Nosql and mongodb driver**.
+`mongo-go-driver`. Connect, CRUD, BSON, indexes.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: **11-api-development** – [REST API Design Principles](../11-api-development/01-rest-api-design-principles.md)

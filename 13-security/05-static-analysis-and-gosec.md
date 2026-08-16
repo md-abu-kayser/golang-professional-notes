@@ -1,27 +1,5 @@
-# Static analysis and gosec
+# Static Analysis & gosec
 
-> Notes on **Static analysis and gosec**.
+`gosec` scans source for security issues. Include in CI.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Dependency Vulnerability Scanning](06-dependency-vulnerability-scanning.md)

@@ -1,27 +1,5 @@
-# Validation with go playground validator
+# Input Validation
 
-> Notes on **Validation with go playground validator**.
+`go-playground/validator`. Struct tags, custom validators.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Authentication – JWT & Middleware](05-authentication-jwt-and-middleware.md)

@@ -1,27 +1,5 @@
-# Distributed tracing opentelemetry
+# Distributed Tracing
 
-> Notes on **Distributed tracing opentelemetry**.
+OpenTelemetry SDK for Go. Export to Jaeger, Zipkin.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Circuit Breakers & Resiliency](06-circuit-breakers-and-resiliency.md)

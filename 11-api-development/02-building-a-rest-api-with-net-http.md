@@ -1,27 +1,5 @@
-# Building a rest api with net http
+# REST API with net/http
 
-> Notes on **Building a rest api with net http**.
+Implement CRUD endpoints, JSON encoding/decoding, routing.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Building APIs with Echo / Gin](03-building-apis-with-echo-gin.md)

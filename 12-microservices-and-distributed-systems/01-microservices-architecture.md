@@ -1,27 +1,5 @@
-# Microservices architecture
+# Microservices Architecture
 
-> Notes on **Microservices architecture**.
+Design principles, domain boundaries, communication patterns.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Service Discovery – Consul, etcd](02-service-discovery-with-consul-etcd.md)

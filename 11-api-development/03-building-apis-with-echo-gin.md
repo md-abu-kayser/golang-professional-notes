@@ -1,27 +1,5 @@
-# Building apis with echo gin
+# APIs with Echo / Gin
 
-> Notes on **Building apis with echo gin**.
+Quick setup, grouping routes, binding request body, error handling.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Example
-
-```go
-package main
-
-func main() {
-	// example code
-}
-```
-
-## References
-
-- 
+> 📘 Next: [Validation – go‑playground/validator](04-validation-with-go-playground-validator.md)
