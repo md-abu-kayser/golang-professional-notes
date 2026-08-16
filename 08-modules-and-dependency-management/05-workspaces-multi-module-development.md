@@ -1,11 +1,5 @@
-# Workspaces Multi Module Development
+# Workspaces
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
+`go.work` file for local multi‑module development (Go 1.18+).
 
-**What it will cover:** Developing across multiple local modules simultaneously with `go.work`.
-
----
-
-This lesson is part of **[Modules & Dependency Management](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+> 📘 Next: **09-web-development** – [net/http Server Basics](../09-web-development/01-net-http-server-basics.md)
