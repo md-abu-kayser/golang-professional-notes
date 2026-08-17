@@ -1,11 +1,6 @@
-# Books and Courses
+# Books & Courses
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
-
-**What it will cover:** Curated external books and courses worth the time investment.
-
----
-
-This lesson is part of **[Resources & Cheatsheets](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+- _The Go Programming Language_ by Donovan & Kernighan
+- _Let's Go_ and _Let's Go Further_ by Alex Edwards
+- _Concurrency in Go_ by Katherine Cox‑Buday
+- Go by Example (website)

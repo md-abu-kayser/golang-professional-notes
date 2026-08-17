@@ -1,11 +1,7 @@
-# Interview Questions
+# Go Interview Questions
 
-> 📋 **Status:** Planned — this lesson isn't written yet.
-
-**What it will cover:** Go interview questions organized by topic, cross-referenced back to the relevant lessons.
-
----
-
-This lesson is part of **[Resources & Cheatsheets](./README.md)** in the [Golang Professional Notes](../README.md) curriculum.
-
-Want to help write it? See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the lesson template and workflow — PRs are very welcome.
+- Explain goroutines and channels.
+- Difference between `RWMutex` and `Mutex`.
+- How does garbage collection work in Go?
+- What is an interface and how is it implemented?
+- How do you handle errors in Go?
