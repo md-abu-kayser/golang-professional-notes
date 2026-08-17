@@ -1,0 +1,1 @@
+if err != nil { return fmt.Errorf("failed to do X: %w", err) }
